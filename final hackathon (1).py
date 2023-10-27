@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[16]:
 
 
 import speech_recognition as sr
@@ -126,22 +125,9 @@ if __name__ == '__main__':
         else:
             print("chatting...")
             chat(query)
-            #say(query)
+            
 
 
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
 
 
 
